@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/components/moviesPage/movies.module.css"],"names":[],"mappings":"AAAA,yBACI,gBACF,CAEA,oBACE,YACF","file":"movies-page.77995da4.chunk.css","sourcesContent":[".container {\r\n    margin-left: 20px;\r\n  }\r\n  \r\n  .Form {\r\n    display: flex;\r\n  }"]}
